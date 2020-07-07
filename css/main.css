@@ -2176,7 +2176,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       display: none; } }
   @media (max-width: 1480px) {
     .banner-img img {
-      max-width: 80%; } }
+      max-width: 100%; } }
 
       /* .banner-img .img-fluid{
         width: 900px;;
@@ -2290,8 +2290,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 .single-work {
   border-radius: 5px;
   margin-bottom: 30px; }
+  
+
   .single-work .thumb .overlay-bg {
-    background: #e45447;
+    background: #3a3a3a;
     opacity: 0;
     border-radius: 5px;
     -webkit-transition: all 0.3s ease 0s;
